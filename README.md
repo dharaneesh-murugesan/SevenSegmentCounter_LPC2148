@@ -27,7 +27,7 @@ This project demonstrates a **0 to 9 counter** using the LPC2148 microcontroller
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)![circuit_diagram](https://github.com/user-attachments/assets/b2f8d07a-af81-46d0-b8c8-3c7d10a2dd9b)
+![Circuit Diagram](circuit_diagram.png)
 
 
 ---
